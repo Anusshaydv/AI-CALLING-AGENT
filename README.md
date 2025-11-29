@@ -34,3 +34,10 @@ At the end of each run, the system prints:
 
 ---
 
+## 🔧 How to Install / Clone the Repository
+
+You can download or clone this repository using the following command:
+
+```bash
+git clone https://github.com/<your-username>/AI-Calling-Agent.git
+
